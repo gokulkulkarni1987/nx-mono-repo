@@ -1,0 +1,6 @@
+module Pods_MyRnApp {
+  umbrella header "Pods-MyRnApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
